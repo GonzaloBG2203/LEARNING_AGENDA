@@ -1,2 +1,6 @@
-Configure ROS 2 in Ubuntu following [ROS 2 TUTORIALS](https://docs.ros.org/en/humble/Tutorials.html)
+Configure ROS 2 in Ubuntu following [ROS 2 TUTORIALS](https://docs.ros.org/en/humble/Tutorials.html).
+Ctrl+Shift+V = paste in Ubuntu terminal. Become confident with Ubuntu terminal.
+Python and all packages successfully installed.
+Talker and listener nodes working.
+Turtle_teleop_key, remapping, pen color and width change working. Much easier overall comparted to Windows.
 
